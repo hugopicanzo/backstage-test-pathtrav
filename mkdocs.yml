@@ -1,0 +1,7 @@
+site_name: Symlink-Bypass-Final
+nav:
+  - Home: index.md
+  - Hosts-Internal: hosts-leak.md    # MkDocs intentará leerlo como Markdown
+  - Secrets-Config: config-leak.md   # MkDocs intentará leerlo como Markdown
+plugins:
+  - techdocs-core
